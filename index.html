@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>loan calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="loancal">
+        <h1> Loan calculator</h1>
+        <p>loan amount: $<input id="amount" type="number" min = "1" max ="5000000" onchange="computeloan()"></p>
+        <p>Interest rate: $<input id="interest_rate" type="number" min="0" max="100" value="10" step="1" onchange="computeloan()"></p>
+        <p>Months to pay: $<input id="months" type="number" min="1" max="300" value="1" step="1" onchange="computeloan()"></p>
+
+        <h2 id="payment"></h2>
+        
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
