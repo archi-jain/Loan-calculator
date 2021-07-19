@@ -4,3 +4,14 @@ So, basically you enter in the amount you have borrowed or take a loan.
 And then you enter the number of months\
 And then the interest rate
 Then this calculator will calculate the total amount.
+
+**#Technology-used**
+
+- HTML
+- CSS
+- JavaScript
+
+Checkout this calculator by clicking on Live server link
+
+live server: https://loan-calculator1234.netlify.app/
+
