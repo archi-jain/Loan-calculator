@@ -7,8 +7,8 @@ Then this calculator will calculate the total amount.
 
 **#Technology-used**
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 
 Checkout this calculator by clicking on Live server link
